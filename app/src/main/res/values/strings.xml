@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BulldogApp</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="correo">CORREO ELECTRONICO</string>
+    <string name="contraseña">CONTRASEÑA</string>
+    <string name="contraseña2">CONFIRMAR CONTRASEÑA</string>
+    <string name="registro">REGISTRARSE</string>
+
+
+    <string name="inicio">INICIAR SESIÓN</string>
+    <string name="olvidate">¿Olvidaste tu contraseña?</string>
+    <string name="cuenta">¿No tienes cuenta?Registrate</string>
+    <string name="boton2">REGISTRATE</string>
+    <string name="todo">todo</string>
+    <string name="inicia_sesion">inicia sesion</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\BulldogApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "G:\\BulldogApp\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,6,4,10,8,3,9,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,190,239,147,460,347,106,392,297",
+                        "endColumns": "47,47,56,41,69,43,39,66,48",
+                        "endOffsets": "100,233,291,184,525,386,141,454,341"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,151,208,250,320,364,404,471",
+                        "endColumns": "47,47,56,41,69,43,39,66,48",
+                        "endOffsets": "98,146,203,245,315,359,399,466,515"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BulldogApp</string>
+    <string name="nombre">Name</string>
+    <string name="correo">E-Mail</string>
+    <string name="contraseña">Password</string>
+    <string name="contraseña2">Confirm password</string>
+    <string name="registro">"Check in "</string>
+    <string name="inicio">Login in</string>
+    <string name="olvidate">Did you forget your password?</string>
+    <string name="cuenta">You do not have an account?Sing up</string>
+</resources>
